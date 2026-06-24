@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: OPAlert - Overpower Dodge Alert
+## Notes: Shows a timer when your target dodges and Overpower is available
+## Author: Grok (with thanks to community examples)
+## Version: 1.0
+## SavedVariables: OPAlertDB
+
+OPAlert.xml
+OPAlert.lua
